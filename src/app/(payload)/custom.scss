@@ -1,0 +1,83 @@
+// :root {
+//     --font-body: 'Inter', system-ui, sans-serif;
+//     --style-radius-s: 4px;
+//     --style-radius-m: 8px;
+//     --style-radius-l: 12px;
+//     // Semantic colors
+//     --theme-success-500: #0f766e;
+//     --theme-warning-500: #d97706;
+//     --theme-error-500: #dc2626;
+// }
+
+
+
+// html[data-theme='light'],
+// html[data-theme='dark'] {
+//     --theme-bg: #D9D1C4;
+//     --theme-elevation-0: #FFFFFF; //cards, inputs
+//     --theme-elevation-50: #EFECE5; //sidebar, subtle backgrounds
+//     --theme-elevation-100: rgba(255, 255, 255, 0.50); // borders
+//     --theme-elevation-800: #5D6D80;
+//     --theme-text: #182E49;
+// }
+
+
+// // Login page inputs (email, password)
+// .login .field-type input,
+// .login .field-type .input,
+// .login input {
+//     background-color: #D9D1C4;
+//     color: #5D6D80;
+//     font-size: 14px;
+//     font-style: normal;
+//     font-weight: 200;
+//     line-height: 22px;
+//     border-radius: 0px;
+//     border: 0px;
+//     border-bottom: 1px solid rgba(24, 46, 73, 0.19);
+// }
+
+// // Focus state
+// .login .field-type input:focus,
+// .login .field-type .input:focus,
+// .login input:focus,
+// .login .field-type input:active,
+// .login .field-type .input:active,
+// .login input:active {
+//     color: #312F32;
+//     background-color: #D9D1C4;
+//     border-bottom: 2px solid #97875F;
+//     outline: none;
+// }
+
+// html[data-theme='light'] .login input,
+// html[data-theme='dark'] .login input {
+//     background-color: #D9D1C4;
+//     color: #5D6D80;
+//     padding-left: 0px;
+//     padding-right: 0px;
+// }
+
+// Primary buttons
+// .btn--style-primary {
+//     --bg-color: #C3AA69;
+//     --color: #071727;
+
+//     border: 1px solid #C3AA69;
+// }
+
+// .btn--style-primary:hover {
+//     background-color: #D9D1C4;
+//     color: #071727;
+//     border-color: #071727;
+
+// }
+
+// Links
+// a {
+//     --link-color: #C3AA69;
+// }
+
+.step-nav__home {
+    width: 95px;
+}
